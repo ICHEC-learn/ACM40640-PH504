@@ -9,4 +9,4 @@ https://nuigalway-ie.zoom.us/j/93328548207?pwd=SEZCRklucHpKOG1CQUVOajYycEdJZz09
 
 (Meeting ID: 933 2854 8207, Passcode: 511653)
 
-You can find the schedule and details about the course in the (Course Outline)[Course_Outline_Jan23.pdf].
+You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan23.pdf).
