@@ -6,5 +6,6 @@ The module will be starting on Monday January 23rd, at which time the materials 
 Zoom details for the Q&A sessions  are as follows:
 
 https://nuigalway-ie.zoom.us/j/93328548207?pwd=SEZCRklucHpKOG1CQUVOajYycEdJZz09
+
 Meeting ID: 933 2854 8207
 Passcode: 511653
