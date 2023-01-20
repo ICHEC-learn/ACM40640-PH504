@@ -9,4 +9,4 @@ https://nuigalway-ie.zoom.us/j/93328548207?pwd=SEZCRklucHpKOG1CQUVOajYycEdJZz09
 
 (Meeting ID: 933 2854 8207, Passcode: 511653)
 
-You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan23.pdf). You can find how to login to the system that will be used during the semester [here](https://media.heanet.ie/page/56a6eb1c564d429fade36e0d66e828a1). Please contact with buket.gursoy at ichec.ie to get a username for the machine.
+You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan23.pdf). You can find how to login to the system that will be used during the semester [here](https://media.heanet.ie/page/56a6eb1c564d429fade36e0d66e828a1). You can find your username for the machine in the [usernames_Blackboard.pdf](usernames_Blackboard.pdf) file.
