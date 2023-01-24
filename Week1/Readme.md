@@ -10,4 +10,4 @@ Lecture Videos:
 
 Practical Recording:
 -------------------
-1.  
+1. Course Introduction: https://media.heanet.ie/page/ae601633e54f4d44a019cf3485673ed6 
