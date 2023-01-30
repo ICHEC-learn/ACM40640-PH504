@@ -1,0 +1,48 @@
+Size=1000000, Number of processes=1
+Computation Time= 0.003164 sec, Communication Time=  0.002941 sec
+Size=1000000, Number of processes=2
+Computation Time= 0.001599 sec, Communication Time=  0.003034 sec
+Size=1000000, Number of processes=4
+Computation Time= 0.000801 sec, Communication Time=  0.003298 sec
+Size=1000000, Number of processes=8
+Computation Time= 0.000401 sec, Communication Time=  0.003527 sec
+Size=1000000, Number of processes=12
+Computation Time= 0.000272 sec, Communication Time=  0.003557 sec
+Size=1000000, Number of processes=20
+Computation Time= 0.000158 sec, Communication Time=  0.003639 sec
+Size=10000000, Number of processes=1
+Computation Time= 0.031995 sec, Communication Time=  0.031512 sec
+Size=10000000, Number of processes=2
+Computation Time= 0.016000 sec, Communication Time=  0.031569 sec
+Size=10000000, Number of processes=4
+Computation Time= 0.007996 sec, Communication Time=  0.031311 sec
+Size=10000000, Number of processes=8
+Computation Time= 0.004018 sec, Communication Time=  0.030451 sec
+Size=10000000, Number of processes=12
+Computation Time= 0.002685 sec, Communication Time=  0.030990 sec
+Size=10000000, Number of processes=20
+Computation Time= 0.001626 sec, Communication Time=  0.031560 sec
+Size=100000000, Number of processes=1
+Computation Time= 0.321133 sec, Communication Time=  0.313033 sec
+Size=100000000, Number of processes=2
+Computation Time= 0.160482 sec, Communication Time=  0.312253 sec
+Size=100000000, Number of processes=4
+Computation Time= 0.080778 sec, Communication Time=  0.318354 sec
+Size=100000000, Number of processes=8
+Computation Time= 0.060194 sec, Communication Time=  0.317529 sec
+Size=100000000, Number of processes=12
+Computation Time= 0.026886 sec, Communication Time=  0.320304 sec
+Size=100000000, Number of processes=20
+Computation Time= 0.016318 sec, Communication Time=  0.326384 sec
+Size=1000000000, Number of processes=1
+Computation Time= 3.237967 sec, Communication Time=  3.124128 sec
+Size=1000000000, Number of processes=2
+Computation Time= 1.616559 sec, Communication Time=  3.122171 sec
+Size=1000000000, Number of processes=4
+Computation Time= 0.805741 sec, Communication Time=  3.560273 sec
+Size=1000000000, Number of processes=8
+Computation Time= 0.402760 sec, Communication Time=  3.681874 sec
+Size=1000000000, Number of processes=12
+Computation Time= 0.209477 sec, Communication Time=  3.616365 sec
+Size=1000000000, Number of processes=20
+Computation Time= 0.164029 sec, Communication Time=  3.690417 sec

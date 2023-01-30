@@ -1,0 +1,4 @@
+Size=1000000, Average Execution Time=0.003548sec
+Size=10000000, Average Execution Time=0.035686sec
+Size=100000000, Average Execution Time=0.357624sec
+Size=1000000000, Average Execution Time=3.594159sec
