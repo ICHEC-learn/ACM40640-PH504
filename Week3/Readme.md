@@ -9,4 +9,4 @@ Lecture Videos:
 
 Practical Recording:
 -------------------
-1.  
+1.  Practical 3: https://media.heanet.ie/page/b487fb37dc0c44de9741dd04c38b94ac
