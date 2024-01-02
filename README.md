@@ -7,4 +7,4 @@ Zoom details for the Q&A sessions  are as follows:
 
 TBC
 
-You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan24.pdf). You can find how to login to the system that will be used during the semester [here](). You can find your username for the machine in the [usernames_UCD.pdf](usernames_Jan24.pdf) file.
+You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan24.pdf). You can find how to login to the system that will be used during the semester [here](). You can find your username for the machine in the [usernames.pdf](usernames_Jan24.pdf) file.
