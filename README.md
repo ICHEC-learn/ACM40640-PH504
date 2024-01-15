@@ -5,6 +5,6 @@ The module will be starting on Monday January 22nd, at which time the materials 
 
 Zoom details for the Q&A sessions  are as follows:
 
-TBC
+[https://universityofgalway-ie.zoom.us/j/97190591566?pwd=cUFhYjI2blNyU1dMY2ZiZmN0MXpWUT09](https://universityofgalway-ie.zoom.us/j/97190591566?pwd=cUFhYjI2blNyU1dMY2ZiZmN0MXpWUT09)
 
 You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan24.pdf). You can find how to login to the system that will be used during the semester [here](). You can find your username for the machine in the [usernames.pdf](usernames_Jan24.pdf) file.
