@@ -7,4 +7,4 @@ Zoom details for the Q&A sessions  are as follows:
 
 [https://universityofgalway-ie.zoom.us/j/97190591566?pwd=cUFhYjI2blNyU1dMY2ZiZmN0MXpWUT09](https://universityofgalway-ie.zoom.us/j/97190591566?pwd=cUFhYjI2blNyU1dMY2ZiZmN0MXpWUT09)
 
-You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan24.pdf). You can find how to login to the system that will be used during the semester [here](). You can find your username for the machine in the [usernames.pdf](usernames.pdf) file.
+You can find the schedule and details about the course in the [Course Outline](Course_Outline_Jan24.pdf). You can find how to login to the system that will be used during the semester [here](https://media.heanet.ie/page/792449e754f2478cb005bb85e9e00525). You can find your username for the machine in the [usernames.pdf](usernames.pdf) file.
